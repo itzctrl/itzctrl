@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Ctrl, an 18-year-old tech enthusiast currently studying Further Maths and Computer Science in the UK.
+I'm Ctrl, an 19-year-old tech enthusiast currently studying for my degree in CyberSecurity.
 
 Technology has always been a fascinating topic to me, hence why I've tried my best to keep up with everything in this field.
 
